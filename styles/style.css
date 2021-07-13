@@ -1,0 +1,39 @@
+/* font style  */
+body{
+    font-family:'Poppins', sans-serif;
+    }
+    /* top bar  */
+    .top-bar{
+        display: flex;
+        background-color: #2D25A0;
+        
+    
+    }
+    .text{
+    font-size: 64px;
+    color: #ffff;
+    padding-left: 156px;
+    padding-top:207px;
+    padding-bottom: 200px;
+     
+    }
+    .text a{
+    text-decoration: none;
+    
+    height: 44px;
+    font-size: 0.5em;
+    background-color: #E02C6D;
+    color:white;
+    
+    
+    }
+    .football-pic img{
+        position: absolute;
+        right: 0.1px;
+        width: 556px;
+        height: 438px;
+        padding-left: 743px;
+        padding-top: 153px;
+        padding-right: 141px;
+        padding-bottom: 86px;
+    }
